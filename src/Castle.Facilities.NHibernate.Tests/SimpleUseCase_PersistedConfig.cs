@@ -30,6 +30,7 @@ namespace Castle.Facilities.NHibernate.Tests
 	using NUnit.Framework;
 	using Logging;
 
+   [TestFixture]
 	public class SimpleUseCase_PersistedConfig : EnsureSchema
 	{
 		[SetUp]

@@ -13,4 +13,4 @@ Castle.Facilities.NHibernate.user
 packages/
 *.dotcover
 paket.exe
-
+*ncrunch*

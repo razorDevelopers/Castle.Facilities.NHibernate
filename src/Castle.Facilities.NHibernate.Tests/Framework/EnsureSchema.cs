@@ -22,7 +22,7 @@ namespace Castle.Facilities.NHibernate.Tests.Framework
 
 	public abstract class EnsureSchema
 	{
-		[TestFixtureSetUp]
+		[OneTimeSetUp]
 		public void Setup()
 		{
 			var configuration = new ExampleInstaller().Config;

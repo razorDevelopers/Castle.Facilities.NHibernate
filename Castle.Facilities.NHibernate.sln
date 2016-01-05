@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{619A0735-3884-4F64-B80A-538D464EC841}"
 	ProjectSection(SolutionItems) = preProject
@@ -14,6 +14,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.Facilities.NHibernat
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1FA775DC-A741-48F8-9F8E-8A72A34AAE0D}"
 	ProjectSection(SolutionItems) = preProject
+		local.testsettings = local.testsettings
 		rakefile.rb = rakefile.rb
 		readme.md = readme.md
 	EndProjectSection
